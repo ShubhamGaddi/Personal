@@ -1,0 +1,336 @@
+/*********************************** General HTML Styling **************************************/
+
+a
+  {
+    color: #12D3CF;
+  }
+
+body
+  {
+    background-color: #B0F4E6;
+  }
+
+div
+  {
+    display: inline-block;
+    position: relative;
+  }
+
+h1
+  {
+    color: #8F758E;
+    display: inline-block;
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+  }
+
+h3
+  {
+    color: #8F758E;
+    display: inline-block;
+    font-family: 'Source Serif Pro', serif;
+    position: relative;
+    text-decoration: underline;
+  }
+
+hr
+  {
+    border-color: #12D3CF;
+    border-style: dashed none none;
+    border-width: 5px;
+  }
+
+p
+  {
+    color: #8F758E;
+    display: inline-block;
+    font-family: 'Bree Serif', serif;
+    font-size: 120%;
+    position:relative;
+    line-height: 2;
+  }
+
+ul
+  {
+    color: #8F758E;
+    display: inline-block;
+    font-family: 'Bree Serif', serif;
+    font-size: 120%;
+    line-height: 2;
+    margin-left: 5%;
+    margin-right: 5%;
+    position:relative;
+  }
+
+/***************************************** Top Ribbon ******************************************/
+
+.Links
+  {
+    color: #12D3CF;
+    left: 35%;
+    margin-bottom: 5%;
+    margin-top: 3.5%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+  }
+
+.Icon
+  {
+    float: left;
+    left: 10%;
+    margin-top: 1%;
+    position: relative;
+  }
+
+  /*************************************** Intro & GIF ****************************************/
+
+.About
+  {
+    font-size: 300%;
+    left : 27%;
+    margin-left: 15%;
+    margin-top: 0;
+    position: relative;
+  }
+
+.GIF
+  {
+    float: right;
+    padding-top: 2%;
+    position: relative;
+    right: 10%;
+  }
+
+.Heading
+  {
+    font-size: 600%;
+    left: 15%;
+    margin-top: 2%;
+    margin-bottom: 0;
+    padding: 0;
+  }
+
+.Me
+  {
+    margin-left: 15%;
+  }
+
+.Para1
+  {
+    left: 10%;
+    width: 50%;
+  }
+
+.Sub_Heading
+  {
+    font-size: 400%;
+    left: 15%;
+    margin-top: 2%;
+  }
+
+
+  /*********************************** Academic Interests ****************************************/
+.Boxes1
+  {
+    display: inline-block;
+    margin-left: 2%;
+    padding: 0 0.5%;
+    width: 13%;
+  }
+
+.Head
+  {
+    font-size: 300%;
+    left : 35%;
+    position: relative;
+  }
+
+.Hob1
+  {
+    display: inline-block;
+    left : 5%;
+    position: relative;
+  }
+
+.Hob2
+  {
+    left : 17%;
+    position: relative;
+  }
+
+/**************************************** Hobbies **********************************************/
+
+.Book
+  {
+    left: 13.5%;
+    position: relative;
+  }
+
+.Box2
+  {
+    display: inline-block;
+    margin-left: 10%;
+    padding: 0 2.5;
+    width: 20%;
+  }
+
+.Debate
+  {
+    left: 17.5%;
+    position: relative;
+  }
+
+.Drums
+  {
+    left: 10%;
+    position: relative;
+  }
+
+.Hob3
+  {
+    font-size: 150%;
+    left: 23%;
+    margin-left: 5%;
+    position: relative;
+  }
+
+.Hobby
+  {
+    font-size: 300%;
+    left: 42%;
+    position: relative;
+  }
+
+/****************************************** Contact **********************************************/
+
+.Contact
+  {
+    left: 5%;
+    width: 40%
+  }
+
+.footer
+  {
+    background-color: #9FD3C7;
+    text-align: center;
+    width: 100%;
+  }
+
+.mail
+  {
+    font-size: 200%;
+    margin-left: 15%;
+  }
+
+.Para2
+  {
+    left: 13%;
+    width: 40%;
+  }
+
+.phone
+  {
+    font-size: 200%;
+    margin-left: 15%;
+  }
+
+/********************************** Exclusive to Education Sub - Page*****************************/
+
+table
+  {
+    color: #8F758E;
+    display: inline-block;
+    font-family: 'Bree Serif', serif;
+    font-size: 120%;
+    left: 16%;
+    line-height: 2;
+    position:relative;
+    border-style: none;
+  }
+
+.EHead1
+  {
+    font-size: 300%;
+    left : 32%;
+    position: relative;
+  }
+
+.EHead2
+  {
+    font-size: 300%;
+    left : 22%;
+    position: relative;
+  }
+
+.Positions
+  {
+    left: 16%;
+    width: 70%;
+  }
+
+.TopRow
+  {
+    text-decoration: underline;
+  }
+
+/********************************** Exclusive to Trainings Sub - Page*****************************/
+
+.CHead1
+  {
+    font-size: 300%;
+    left : 29%;
+    position: relative;
+  }
+
+
+.Extra
+  {
+    left : 50%
+  }
+
+.LeftImg
+  {
+    float: left;
+    margin-left: 15%;
+    margin-top: 5%;
+  }
+
+.LeftText
+  {
+    padding-right:  5%;
+    margin-left: 15%;
+    width: 45%;
+  }
+
+.Main
+  {
+    margin-left: 5%;
+    margin-right: 5%;
+    width : 70%;
+  }
+
+.RightText
+  {
+    padding-left: 10%;
+    margin-right: 15%;
+    width: 45%;
+  }
+
+.RightImg
+  {
+    float: right;
+    margin-right: 10%;
+    margin-top: 3%;
+    padding-left: 0;
+  }
+
+  .SpecialLeft
+    {
+      margin-left: 10%;
+      border-radius: 100%;
+    }
+
+.SpecialRight
+  {
+    border-radius: 100%;
+  }
